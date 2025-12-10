@@ -16,6 +16,9 @@ This project is my first experience with Git and GitHub, where I am learning how
 ##  Project structure
 
 firstproject/
+
 ├── .git/
+
 ├── README.md
+
 └── (other project files)
