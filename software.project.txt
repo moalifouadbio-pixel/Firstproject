@@ -1,0 +1,29 @@
+git config --global user.name "nom"
+
+git config --global user.email "email"
+
+git config --list
+
+git config --global color.diff auto
+
+mkdir firstproject
+
+ls
+
+cd firstproject/
+
+git init
+
+ls -l .git
+
+pwd
+
+cd ..
+
+pwd
+
+chmod 777 firstproject
+
+cd firstproject/
+
+ls -l .git
